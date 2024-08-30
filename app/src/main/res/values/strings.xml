@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">HideCalc</string>
+    <string name="sendText">Передать данные</string>
+    <string name="div">/</string>
+    <string name="multi">*</string>
+    <string name="dif">-</string>
+    <string name="sum">+</string>
+    <string name="inputFirstNumber">Введите первое число</string>
+    <string name="inputSecondNumber">Введите второе число</string>
+    <string name="calc">Калькулятор</string>
+    <string name="hide_calc">Скрытый калькулятор</string>
+    <string name="result">Результат будет здесь</string>
+</resources>
